@@ -1,0 +1,19 @@
+LISTAS
+
+lista_vazia = []
+lista_mixta = [1,'a',2,'b']
+o indice de uma lista sempre se inicia por ZERO
+
+Exemplo: lista_mixta[0] = 1
+
+
+SLICING
+
+consegue pegar partes da lista
+a[inicio:fim:passo] inicio por passo, até fim - 1
+a[-1] ultimo item da lista
+
+
+
+FOR 
+

@@ -1,0 +1,4 @@
+www.wolframalpha.com
+
+formatação de números
+https://pyformat.info/
